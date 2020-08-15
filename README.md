@@ -4,7 +4,7 @@ Aplicação GoMarketplace, oitavo desafio do Bootcamp Gostack11 visando fixar os
 
 <h2>Imagem da aplicação<h2> 
 
-<h1 align="center">
+<h1 align="center">  
   <img src="https://ik.imagekit.io/hld13bjzb1/Screenshot_from_2020-06-12_10-22-18_vLngxjpDdL.png">
 </h1>
 
